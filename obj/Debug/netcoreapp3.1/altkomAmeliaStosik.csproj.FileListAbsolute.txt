@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\bin\Debug\netcoreapp3.1\altkomAmeliaStosik.exe
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\bin\Debug\netcoreapp3.1\altkomAmeliaStosik.deps.json
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\bin\Debug\netcoreapp3.1\altkomAmeliaStosik.runtimeconfig.json
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\bin\Debug\netcoreapp3.1\altkomAmeliaStosik.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\bin\Debug\netcoreapp3.1\altkomAmeliaStosik.dll
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\bin\Debug\netcoreapp3.1\altkomAmeliaStosik.pdb
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\obj\Debug\netcoreapp3.1\altkomAmeliaStosik.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\obj\Debug\netcoreapp3.1\altkomAmeliaStosik.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\obj\Debug\netcoreapp3.1\altkomAmeliaStosik.AssemblyInfo.cs
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\obj\Debug\netcoreapp3.1\altkomAmeliaStosik.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\obj\Debug\netcoreapp3.1\altkomAmeliaStosik.dll
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\obj\Debug\netcoreapp3.1\altkomAmeliaStosik.pdb
+C:\Users\Student\Desktop\Code\altkomAmeliaStosik\obj\Debug\netcoreapp3.1\altkomAmeliaStosik.genruntimeconfig.cache
